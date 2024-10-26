@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @ClassName UserEntity @Description TODO
+ * @ClassName UserEntity @Description  
  *
  * @author han @Date 2024/10/26 17:28 @Version 1.0
  */

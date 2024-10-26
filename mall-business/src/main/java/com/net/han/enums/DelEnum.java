@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * @ClassName DelEnum @Description TODO
+ * @ClassName DelEnum @Description  
  *
  * @author han @Date 2024/10/26 17:51 @Version 1.0
  */

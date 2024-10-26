@@ -4,7 +4,7 @@ import com.net.han.entity.RequestPageEntity;
 import lombok.Data;
 
 /**
- * @ClassName UserConditionEntity @Description TODO
+ * @ClassName UserConditionEntity @Description  
  *
  * @author han @Date 2024/10/26 17:28 @Version 1.0
  */

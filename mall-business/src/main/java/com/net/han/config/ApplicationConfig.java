@@ -4,7 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @ClassName ApplicationConfig @Description TODO
+ * @ClassName ApplicationConfig @Description  
  *
  * @author han @Date 2024/10/26 17:26 @Version 1.0
  */

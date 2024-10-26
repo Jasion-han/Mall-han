@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @ClassName BaseEntity @Description TODO
+ * @ClassName BaseEntity @Description  
  *
  * @author han @Date 2024/10/26 17:28 @Version 1.0
  */
