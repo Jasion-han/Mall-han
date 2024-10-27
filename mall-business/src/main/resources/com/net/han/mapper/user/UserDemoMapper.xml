@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.net.han.mapper.user.UserMapper">
+<mapper namespace="com.net.han.mapper.user.UserDemoMapper">
 
     <resultMap type="com.net.han.entity.user.UserEntity" id="userResult">
         <result property="id" column="id"/>
